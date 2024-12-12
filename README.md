@@ -12,3 +12,8 @@ A simple tool to extract basic profile information from a LinkedIn profile URL (
   - streamlit
   - selenium
   - beautifulsoup4
+
+## Using the Application:
+- Enter the LinkedIn profile URL in the text input field.
+- Click "Get data."
+- View the extracted profile information on the page.
