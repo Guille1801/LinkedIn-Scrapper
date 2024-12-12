@@ -6,7 +6,7 @@ A simple tool to extract basic profile information from a LinkedIn profile URL (
 - Parses the HTML with BeautifulSoup.
 - Provides a user-friendly interface built with Streamlit.
 ## Requirements
-- Python 3.x
+- Python (of course)
 - A compatible WebDriver for your browser (e.g., EdgeDriver, ChromeDriver). The WebDriver executable should be available in your system PATH or specified in your code. In my case I'm using Edge.
 - Python libraries:
   - streamlit
